@@ -1,6 +1,13 @@
-# bmi_calculator
+# BMI Calculator
+![Lines of code](https://img.shields.io/tokei/lines/github/momcilovicluka/bmi-calculator)
+![GitHub repo size](https://img.shields.io/github/repo-size/momcilovicluka/bmi-calculator)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/momcilovicluka/bmi-calculator)
 
-A new Flutter project.
+Responsive BMI Calculator app made with flutter.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68912857/182033208-cf7d9745-23d0-471f-bd8d-071d5463e1ff.gif" />
+</p>
 
 ## Getting Started
 
