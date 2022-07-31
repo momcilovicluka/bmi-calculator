@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final TextEditingController _heightController = TextEditingController();
   final TextEditingController _weightController = TextEditingController();
   double _bmiResult = 0;
-  String _bmiResultText = 'Normal';
+  String _bmiResultText = '';
 
   @override
   Widget build(BuildContext context) {
