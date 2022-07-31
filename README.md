@@ -2,6 +2,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/momcilovicluka/bmi-calculator)
 ![GitHub repo size](https://img.shields.io/github/repo-size/momcilovicluka/bmi-calculator)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/momcilovicluka/bmi-calculator)
+[![GitHub Super-Linter](https://github.com/momcilovicluka/bmi-calculator/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 Responsive BMI Calculator app made with flutter.
 
