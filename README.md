@@ -6,6 +6,7 @@
 
 
 Responsive BMI Calculator app made with flutter.
+### [Live](https://bmi-calculator-momcilovicluka.vercel.app/#/)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68912857/182033208-cf7d9745-23d0-471f-bd8d-071d5463e1ff.gif" />
